@@ -16,5 +16,5 @@
 3. docker-compose.yml을 적절하게 수정한다.
 
 ## 로컬에서 개발시
-build/lib폴더 내에 to_server.sh가 ㅣㅇㅆ다.
+build/lib폴더 내에 to_server.sh가 있다.
 이를 수정하여 사용한다.
