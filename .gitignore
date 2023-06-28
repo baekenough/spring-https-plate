@@ -38,3 +38,4 @@ out/
 
 ### keys ###
 /src/main/resources/application.properties
+/src/main/resources/{{KEYNAME}}.p12

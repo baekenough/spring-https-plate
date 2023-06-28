@@ -1,6 +1,6 @@
 FROM openjdk:17-jdk
 
-ARG JAR_FILE=cliff-jigsaw-spring.jar
+ARG JAR_FILE={{JAR_NAME}}.jar
 
 COPY ${JAR_FILE} app.jar
 
